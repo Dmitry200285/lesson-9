@@ -1,0 +1,45 @@
+main {
+    box-sizing: border-box;
+    width: 1100px;
+    padding: 50px;
+    background-color: silver;
+}
+.block-model {
+    background-color: white;
+    width: 1000px;
+    overflow: auto;
+    background: seashell;
+    text-align: center;
+    font-size: 30px;
+
+    color: white;
+
+}
+.margin-bottom-50px {
+    margin-bottom: 50px;
+}
+.cluster-of-cubes {
+    overflow: auto;
+}
+.block.third {
+    margin-bottom: 0px;
+}
+.cube {
+    background-color: palevioletred;
+}
+.wh200px {
+    width: 200px;
+    height: 200px;
+}
+.wh100px {
+    width: 100px;
+    height: 100px;
+}
+.left {
+    float: left;
+    margin-right: 15px;
+}
+.right {
+    float: right;
+    margin-left: 15px;
+}
